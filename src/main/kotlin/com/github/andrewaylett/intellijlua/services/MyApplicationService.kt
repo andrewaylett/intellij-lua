@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.andrewaylett.intellijlua.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.andrewaylett.intellijlua.MyBundle
 
 class MyApplicationService {
 
