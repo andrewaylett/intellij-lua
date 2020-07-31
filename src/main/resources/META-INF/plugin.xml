@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>com.github.andrewaylett.intellijlua</id>
-    <name>intellij-lua</name>
+    <name>IntelliJ-Lua</name>
     <vendor>andrewaylett</vendor>
 
     <!-- Product and plugin compatibility requirements -->
